@@ -1,0 +1,9 @@
+{
+  "java.project.sourcePaths": [
+    "api",
+    "boards",
+    "game"
+  ],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": []
+}

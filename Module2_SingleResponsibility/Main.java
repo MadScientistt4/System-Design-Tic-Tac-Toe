@@ -1,4 +1,3 @@
-package SingleResponsibility;
 import api.GameEngine;
 import game.Board;
 import game.Move;
